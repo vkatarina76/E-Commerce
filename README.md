@@ -1,4 +1,4 @@
-# ShopSmart – Static E-Commerce Site
+# ShopSmart – E-Commerce Shop
 
 This is a static prototype of an e-commerce platform created for educational and frontend integration purposes. It includes a user-friendly layout, product pages, and account management interface.
 
